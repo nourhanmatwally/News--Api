@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "multer": "^1.4.3",
+    "request": "^2.88.2",
+    "validator": "^13.6.0"
+  }
+}
